@@ -31,3 +31,4 @@ bin/
 JavaBasic.iml
 out/
 target/
+*.iml
